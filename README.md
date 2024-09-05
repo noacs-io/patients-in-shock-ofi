@@ -1,27 +1,32 @@
 # Associations between emergency procedures and outcomes in adult trauma patients
 
-This repository includes the manuscript and code for the research project on associations between emergency procedures and outcomes in adult trauma patients. 
+This repository includes the manuscript and code for the research project on opportunities for improvement in the care of adult trauma patients arriving in shock. 
 
 ## Summary
 
 ### Introduction
-Trauma, the clinical entity composed of physical injury and the body’s associated response, is a
-massive global health threat. Reducing mortality and morbidity from trauma is part of the
-Sustainable Development Goals and improving trauma care is crucial to realize these goals.
-Trauma care is time sensitive and early interventions are key to save lives and limit suffering. The
-WHO has identified a set of procedures that should be performed early during trauma patient
-management, drawing from established trauma life support guidelines. It remains unknown to
-what extent these procedures are practiced, and how they associate with patient outcomes.
+Trauma - physical injury and the body’s associated response - is a major cause of death and
+disability worldwide. Every year, over four million people die from trauma, and it is the top cause
+of burden of disease in young people. Trauma quality improvement programmes aim to identify
+opportunities for improvement in the care of trauma patients, and to implement changes to
+improve patient outcomes. The initial management of trauma patients once they reach hospital is
+very time sensitive and error prone, especially in patients arriving in shock. Little is known
+however about the specific types of opportunities for improvement that are present in the care of
+these patients.
 
 ### Aim
-To assess how emergency procedures associate with outcomes in adult trauma patients
+This study aims to describe opportunities for improvement adult trauma patients arriving in
+shock, and to assess how the degree of shock is associated with opportunities for improvement.
 
 ### Methods
-This will be a secondary analysis of data from an interrupted time series study and pilot cluster
-randomized controlled trial in hospitals across urban India. The participants are adult trauma
-patients. The sample size will be approximately 3000 patients. The student will conduct both
-unadjusted analyses and analyses adjusted for age, sex, mechanism of injury and trauma severity.
-Dichotomous outcomes will be analysed using logistic regression and continuous outcomes will
-be analysed using linear regression. A subgroup analysis of patients arriving within 48 hours of
-injury will be performed. All analyses will use a 5% significance level and 95% confidence level.
+This is a registry based cohort study using data from the trauma registry and trauma care quality
+database at the Karolinska University Hospital in Solna. The trauma registry includes about
+14000 patients treated between 2012 and 2023. The trauma care quality database is a subset of the
+trauma registry and includes about 8000 patients selected for review between 2014 and 2023. The
+outcome is opportunities for improvement, such as delayed management or technical errors, as
+identified by a multidisciplinary trauma quality improvement review board and recorded in the
+trauma care quality database. This project will link the two databases and assess what types of
+OFI occurred in patients arriving in shock and use adjusted logistic regression to assess the
+association between the degree of shock and odds of opportunities for improvement. A 5%
+significance level and 95% confidence levels will be used.
  
