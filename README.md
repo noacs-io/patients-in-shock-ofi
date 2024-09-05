@@ -1,4 +1,4 @@
-# Associations between emergency procedures and outcomes in adult trauma patients
+# Opportunities for improvement in the care of adult trauma patients arriving in shock
 
 This repository includes the manuscript and code for the research project on opportunities for improvement in the care of adult trauma patients arriving in shock. 
 
